@@ -1,4 +1,6 @@
 # Recon.py
+https://app.screencastify.com/watch/s00BmJGFKswyFJV86bST - Shows the tool in action with all features demonstrated.
+
 Recon.py is a fast command-line tool written in Python. It is designed for initial network and web service reconnaissance. My primary goal for Recon.oy is to quickly identify open TCP ports, collect services banners and perform non-intrusive metadata extraction and fingerprinting on web services, HTTPS or HTTP, and their TLS certificates. Recon.py is built to perform ethical scanning practicces, error tolerance and an emphasis on performance The final output is a structured JSON file containing all collected data, as well as a simplified CSV summary for quick review.
 
 Project Goals:
